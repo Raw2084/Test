@@ -1,1 +1,1 @@
-Start the exe and hope all your installed Programms show up
+Start the exe and hope all your installed programs show up
